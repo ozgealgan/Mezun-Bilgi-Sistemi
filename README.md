@@ -1,5 +1,5 @@
 # Mezun-Bilgi-Sistemi
-Mezun Bilgi Sistemi
+**Mezun Bilgi Sistemi**
 
 **Gerçekleştirilen platform:** Visual Studio-2015 
 
@@ -9,6 +9,7 @@ Mezun Bilgi Sistemi
 **Kullanılan dosya:** OgrenciBilgi.txt isimli dosyada kayıtlı olan mezun bilgileri başlangıçta sisteme çekilir.
 
 **Kullanılan Sınıfların Açıklamaları**
+
 **OgrenciBilgi Sınıfı:** Bu sınıfta öğrencinin özellikleri tanımlıdır ve öğrenciye ait staj ve mezun bilgileri LinkedList şeklinde tutulmaktadır.
 
 **MezunBilgi Sınıfı:** Bu sınıf öğrenciye ait mezuniyet bilgilerine sahiptir.
