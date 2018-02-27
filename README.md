@@ -1,9 +1,12 @@
 # Mezun-Bilgi-Sistemi
-Linked List ve ağaç yapıları kullandığım veri yapıları dersi final proje ödevi
 Mezun Bilgi Sistemi
-Gerçekleştirilen platform: Visual Studio-2015 
-Problemin kısa tanımı: Bir mezun bilgi sistemi geliştirilerek sistemde mezun olan öğrencileri ve şirketleri buluşturmak hedeflenmektedir. Sistem üzerinden şirketler İngilizce düzeyine, not ortalamasına, mezun olduğu bölüme göre, arama yapıp istedikleri öğrenciye hızlıca ulaşabilmelidir. Ayrıca sistem de şirket için en uygun mezunu belirleyebilmelidir. Öğrenciler de sistemdeki bilgilerini güncelleyebilmelidir.
-Kullanılan dosya: OgrenciBilgi.txt isimli dosyada kayıtlı olan mezun bilgileri başlangıçta sisteme çekilir.
+
+**Gerçekleştirilen platform:** Visual Studio-2015 
+
+
+**Problemin kısa tanımı:** Bir mezun bilgi sistemi geliştirilerek sistemde mezun olan öğrencileri ve şirketleri buluşturmak hedeflenmektedir. Sistem üzerinden şirketler İngilizce düzeyine, not ortalamasına, mezun olduğu bölüme göre, arama yapıp istedikleri öğrenciye hızlıca ulaşabilmelidir. Ayrıca sistem de şirket için en uygun mezunu belirleyebilmelidir. Öğrenciler de sistemdeki bilgilerini güncelleyebilmelidir.
+
+**Kullanılan dosya:** OgrenciBilgi.txt isimli dosyada kayıtlı olan mezun bilgileri başlangıçta sisteme çekilir.
 
 **Kullanılan Sınıfların Açıklamaları**
 **OgrenciBilgi Sınıfı:** Bu sınıfta öğrencinin özellikleri tanımlıdır ve öğrenciye ait staj ve mezun bilgileri LinkedList şeklinde tutulmaktadır.
